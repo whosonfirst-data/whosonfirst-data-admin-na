@@ -57,7 +57,7 @@
     "wof:belongsto":[
         102191573,
         85632535,
-        85675247
+        1108804901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,13 +72,13 @@
             "continent_id":102191573,
             "country_id":85632535,
             "county_id":1108785099,
-            "region_id":85675247
+            "region_id":1108804901
         }
     ],
     "wof:id":1108785099,
     "wof:lastmodified":1695886077,
     "wof:name":"Katima Muliro Urban",
-    "wof:parent_id":85675247,
+    "wof:parent_id":1108804901,
     "wof:placetype":"county",
     "wof:placetype_local":"constituency",
     "wof:population":28362,
