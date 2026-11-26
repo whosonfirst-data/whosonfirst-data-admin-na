@@ -1,0 +1,74 @@
+{
+  "id": 9895049729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06101,-17.98736,15.06101,-17.98736",
+    "geom:latitude":-17.98736,
+    "geom:longitude":15.06101,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907981: name \"Uukuuvu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907981"
+        },
+        {
+            "citation":"GeoNames populated place 12907981: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907981"
+        },
+        {
+            "citation":"GeoNames populated place 12907981: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907981"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785121 (Okahao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907981
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"e05396f3896cc1bf01fa64fba38448fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785121,
+            "locality_id":9895049729,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049729,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Uukuuvu",
+    "wof:parent_id":1108785121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06101,
+    -17.98736,
+    15.06101,
+    -17.98736
+],
+  "geometry": {"coordinates":[15.06101,-17.98736],"type":"Point"}
+}

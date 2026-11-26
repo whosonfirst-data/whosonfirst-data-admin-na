@@ -1,0 +1,74 @@
+{
+  "id": 9895049852,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.52792,-17.7557,15.52792,-17.7557",
+    "geom:latitude":-17.7557,
+    "geom:longitude":15.52792,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908116: name \"Onegali\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908116"
+        },
+        {
+            "citation":"GeoNames populated place 12908116: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908116"
+        },
+        {
+            "citation":"GeoNames populated place 12908116: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908116"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785071 (Elim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908116
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"099d6fdf5d2caa45f15e1fc7154fbac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785071,
+            "locality_id":9895049852,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049852,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Onegali",
+    "wof:parent_id":1108785071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.52792,
+    -17.7557,
+    15.52792,
+    -17.7557
+],
+  "geometry": {"coordinates":[15.52792,-17.7557],"type":"Point"}
+}

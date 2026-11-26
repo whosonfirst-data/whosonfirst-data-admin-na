@@ -1,0 +1,74 @@
+{
+  "id": 9895050202,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30893,-17.80208,24.30893,-17.80208",
+    "geom:latitude":-17.80208,
+    "geom:longitude":24.30893,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13095750: name \"Machita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13095750"
+        },
+        {
+            "citation":"GeoNames populated place 13095750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13095750"
+        },
+        {
+            "citation":"GeoNames populated place 13095750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13095750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421199941 (Katima Muliro Rural), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421199941,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13095750
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"ed2bc004d34a468baed69b25ec03e3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199941,
+            "locality_id":9895050202,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895050202,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Machita",
+    "wof:parent_id":421199941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30893,
+    -17.80208,
+    24.30893,
+    -17.80208
+],
+  "geometry": {"coordinates":[24.30893,-17.80208],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895049746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.50756,-17.68213,15.50756,-17.68213",
+    "geom:latitude":-17.68213,
+    "geom:longitude":15.50756,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907999: name \"Oniiwe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907999"
+        },
+        {
+            "citation":"GeoNames populated place 12907999: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907999"
+        },
+        {
+            "citation":"GeoNames populated place 12907999: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907999"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785071 (Elim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907999
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"023ba9bc202a59fb5c96bf0a170841cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785071,
+            "locality_id":9895049746,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049746,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Oniiwe",
+    "wof:parent_id":1108785071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.50756,
+    -17.68213,
+    15.50756,
+    -17.68213
+],
+  "geometry": {"coordinates":[15.50756,-17.68213],"type":"Point"}
+}

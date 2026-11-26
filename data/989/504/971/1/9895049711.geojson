@@ -1,0 +1,74 @@
+{
+  "id": 9895049711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42954,-18.41697,20.42954,-18.41697",
+    "geom:latitude":-18.41697,
+    "geom:longitude":20.42954,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12905135: name \"Cumuci\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12905135"
+        },
+        {
+            "citation":"GeoNames populated place 12905135: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12905135"
+        },
+        {
+            "citation":"GeoNames populated place 12905135: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12905135"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785115 (Ndiyona), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785115,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12905135
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"ecf44dece1202945873b03d257af8f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":9895049711,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895049711,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Cumuci",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42954,
+    -18.41697,
+    20.42954,
+    -18.41697
+],
+  "geometry": {"coordinates":[20.42954,-18.41697],"type":"Point"}
+}

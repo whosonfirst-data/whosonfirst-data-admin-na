@@ -1,0 +1,74 @@
+{
+  "id": 9895049791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91522,-17.53578,15.91522,-17.53578",
+    "geom:latitude":-17.53578,
+    "geom:longitude":15.91522,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908050: name \"Okelemba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908050"
+        },
+        {
+            "citation":"GeoNames populated place 12908050: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908050"
+        },
+        {
+            "citation":"GeoNames populated place 12908050: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908050"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785119 (Ohangwena), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908050
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"10fa65de5300f6608d8f2a1dcc5c6453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785119,
+            "locality_id":9895049791,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895049791,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okelemba",
+    "wof:parent_id":1108785119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91522,
+    -17.53578,
+    15.91522,
+    -17.53578
+],
+  "geometry": {"coordinates":[15.91522,-17.53578],"type":"Point"}
+}

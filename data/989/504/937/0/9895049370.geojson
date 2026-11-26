@@ -1,0 +1,74 @@
+{
+  "id": 9895049370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.05,-17.51667,16.05,-17.51667",
+    "geom:latitude":-17.51667,
+    "geom:longitude":16.05,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3354221: name \"Ondobe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3354221"
+        },
+        {
+            "citation":"GeoNames populated place 3354221: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3354221"
+        },
+        {
+            "citation":"GeoNames populated place 3354221: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3354221"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785155 (Ondobe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354221
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9aa17997edd6a4079c06e0896831dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785155,
+            "locality_id":9895049370,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895049370,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ondobe",
+    "wof:parent_id":1108785155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.05,
+    -17.51667,
+    16.05,
+    -17.51667
+],
+  "geometry": {"coordinates":[16.05,-17.51667],"type":"Point"}
+}

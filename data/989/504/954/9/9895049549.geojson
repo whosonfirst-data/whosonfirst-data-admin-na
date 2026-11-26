@@ -1,0 +1,74 @@
+{
+  "id": 9895049549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19156,-22.32843,18.19156,-22.32843",
+    "geom:latitude":-22.32843,
+    "geom:longitude":18.19156,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12689714: name \"Diana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12689714"
+        },
+        {
+            "citation":"GeoNames populated place 12689714: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12689714"
+        },
+        {
+            "citation":"GeoNames populated place 12689714: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12689714"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785197 (Steinhausen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675235,
+        102191573,
+        1108785197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12689714
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"def04ae4648bf3aa2b94ef7015a9889a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785197,
+            "locality_id":9895049549,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":9895049549,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Diana",
+    "wof:parent_id":1108785197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19156,
+    -22.32843,
+    18.19156,
+    -22.32843
+],
+  "geometry": {"coordinates":[18.19156,-22.32843],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895049460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6874,-28.01257,18.6874,-28.01257",
+    "geom:latitude":-28.01257,
+    "geom:longitude":18.6874,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12521951: name \"Ubib\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12521951"
+        },
+        {
+            "citation":"GeoNames populated place 12521951: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12521951"
+        },
+        {
+            "citation":"GeoNames populated place 12521951: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12521951"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785097 (Karas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12521951
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"a498dc7cacf4d96fe4517dce3d75036b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":9895049460,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049460,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ubib",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6874,
+    -28.01257,
+    18.6874,
+    -28.01257
+],
+  "geometry": {"coordinates":[18.6874,-28.01257],"type":"Point"}
+}

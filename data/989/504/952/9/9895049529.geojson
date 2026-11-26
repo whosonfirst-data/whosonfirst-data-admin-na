@@ -1,0 +1,74 @@
+{
+  "id": 9895049529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.40817,-25.66637,17.40817,-25.66637",
+    "geom:latitude":-25.66637,
+    "geom:longitude":17.40817,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12556508: name \"Kutenhuas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12556508"
+        },
+        {
+            "citation":"GeoNames populated place 12556508: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12556508"
+        },
+        {
+            "citation":"GeoNames populated place 12556508: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12556508"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175621 (Berseba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421175621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12556508
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"1b0140093238a0123eccbc2d0d36ef23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175621,
+            "locality_id":9895049529,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049529,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kutenhuas",
+    "wof:parent_id":421175621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.40817,
+    -25.66637,
+    17.40817,
+    -25.66637
+],
+  "geometry": {"coordinates":[17.40817,-25.66637],"type":"Point"}
+}

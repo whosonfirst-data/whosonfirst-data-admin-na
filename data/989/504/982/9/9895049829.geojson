@@ -1,0 +1,74 @@
+{
+  "id": 9895049829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2404,-17.64428,15.2404,-17.64428",
+    "geom:latitude":-17.64428,
+    "geom:longitude":15.2404,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908092: name \"Okeeke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908092"
+        },
+        {
+            "citation":"GeoNames populated place 12908092: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908092"
+        },
+        {
+            "citation":"GeoNames populated place 12908092: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908092"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785117 (Ogongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908092
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"4a8c38fc5b9f8b6c1384b930d0a1e459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785117,
+            "locality_id":9895049829,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049829,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okeeke",
+    "wof:parent_id":1108785117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2404,
+    -17.64428,
+    15.2404,
+    -17.64428
+],
+  "geometry": {"coordinates":[15.2404,-17.64428],"type":"Point"}
+}

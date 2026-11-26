@@ -1,0 +1,74 @@
+{
+  "id": 9895049652,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69939,-20.48081,14.69939,-20.48081",
+    "geom:latitude":-20.48081,
+    "geom:longitude":14.69939,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12784444: name \"Florida\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12784444"
+        },
+        {
+            "citation":"GeoNames populated place 12784444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12784444"
+        },
+        {
+            "citation":"GeoNames populated place 12784444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12784444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202645 (Khorixas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675209,
+        102191573,
+        421202645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12784444
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"08e61536732fcbe98f915f191d0f4e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421202645,
+            "locality_id":9895049652,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":9895049652,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Florida",
+    "wof:parent_id":421202645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69939,
+    -20.48081,
+    14.69939,
+    -20.48081
+],
+  "geometry": {"coordinates":[14.69939,-20.48081],"type":"Point"}
+}

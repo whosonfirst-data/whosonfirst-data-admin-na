@@ -1,0 +1,74 @@
+{
+  "id": 9895049387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43468,-27.73613,19.43468,-27.73613",
+    "geom:latitude":-27.73613,
+    "geom:longitude":19.43468,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3356665: name \"Hudab Suid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3356665"
+        },
+        {
+            "citation":"GeoNames populated place 3356665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3356665"
+        },
+        {
+            "citation":"GeoNames populated place 3356665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3356665"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785097 (Karas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356665
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"15c31802a55470dec8c9c58d2a318f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":9895049387,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049387,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Hudab Suid",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43468,
+    -27.73613,
+    19.43468,
+    -27.73613
+],
+  "geometry": {"coordinates":[19.43468,-27.73613],"type":"Point"}
+}

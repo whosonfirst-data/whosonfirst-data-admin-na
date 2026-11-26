@@ -1,0 +1,74 @@
+{
+  "id": 9895049611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41853,-20.97639,17.41853,-20.97639",
+    "geom:latitude":-20.97639,
+    "geom:longitude":17.41853,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12761813: name \"Osire-Sud\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12761813"
+        },
+        {
+            "citation":"GeoNames populated place 12761813: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12761813"
+        },
+        {
+            "citation":"GeoNames populated place 12761813: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12761813"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421166795 (Omatako), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675217,
+        102191573,
+        421166795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12761813
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"1074c63411c1c9426a7353564944d08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421166795,
+            "locality_id":9895049611,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":9895049611,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Osire-Sud",
+    "wof:parent_id":421166795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41853,
+    -20.97639,
+    17.41853,
+    -20.97639
+],
+  "geometry": {"coordinates":[17.41853,-20.97639],"type":"Point"}
+}

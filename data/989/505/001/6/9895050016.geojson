@@ -1,0 +1,74 @@
+{
+  "id": 9895050016,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.32948,-18.45413,16.32948,-18.45413",
+    "geom:latitude":-18.45413,
+    "geom:longitude":16.32948,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908442: name \"Onanke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908442"
+        },
+        {
+            "citation":"GeoNames populated place 12908442: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908442"
+        },
+        {
+            "citation":"GeoNames populated place 12908442: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908442"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785149 (Omuntele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675243,
+        102191573,
+        1108785149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908442
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"5c42c5eef99328fdee5b82643a5f4ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785149,
+            "locality_id":9895050016,
+            "region_id":85675243
+        }
+    ],
+    "wof:id":9895050016,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Onanke",
+    "wof:parent_id":1108785149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.32948,
+    -18.45413,
+    16.32948,
+    -18.45413
+],
+  "geometry": {"coordinates":[16.32948,-18.45413],"type":"Point"}
+}

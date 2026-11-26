@@ -1,0 +1,74 @@
+{
+  "id": 9895049739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62599,-17.52779,15.62599,-17.52779",
+    "geom:latitude":-17.52779,
+    "geom:longitude":15.62599,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907992: name \"Onambaba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907992"
+        },
+        {
+            "citation":"GeoNames populated place 12907992: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907992"
+        },
+        {
+            "citation":"GeoNames populated place 12907992: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907992"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785161 (Ongenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907992
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"e06a187195e3c25d2b7a1ec9e839a77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785161,
+            "locality_id":9895049739,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895049739,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Onambaba",
+    "wof:parent_id":1108785161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62599,
+    -17.52779,
+    15.62599,
+    -17.52779
+],
+  "geometry": {"coordinates":[15.62599,-17.52779],"type":"Point"}
+}

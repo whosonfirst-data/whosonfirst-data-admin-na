@@ -1,0 +1,74 @@
+{
+  "id": 9895049602,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.04819,-20.27866,18.04819,-20.27866",
+    "geom:latitude":-20.27866,
+    "geom:longitude":18.04819,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12731212: name \"Ozondema\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12731212"
+        },
+        {
+            "citation":"GeoNames populated place 12731212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12731212"
+        },
+        {
+            "citation":"GeoNames populated place 12731212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12731212"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785125 (Okakarara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675217,
+        102191573,
+        1108785125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12731212
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"ebd6fe57107794d365f05477ec0370ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785125,
+            "locality_id":9895049602,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":9895049602,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ozondema",
+    "wof:parent_id":1108785125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.04819,
+    -20.27866,
+    18.04819,
+    -20.27866
+],
+  "geometry": {"coordinates":[18.04819,-20.27866],"type":"Point"}
+}

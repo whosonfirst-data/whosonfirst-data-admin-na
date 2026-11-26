@@ -1,0 +1,74 @@
+{
+  "id": 9895049411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53135,-17.41788,14.53135,-17.41788",
+    "geom:latitude":-17.41788,
+    "geom:longitude":14.53135,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175960: name \"Etunda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175960"
+        },
+        {
+            "citation":"GeoNames populated place 12175960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175960"
+        },
+        {
+            "citation":"GeoNames populated place 12175960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172943 (Ruacana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        421172943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175960
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"cca6c2b2cca63f9d13af2ddcbc031777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421172943,
+            "locality_id":9895049411,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049411,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Etunda",
+    "wof:parent_id":421172943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53135,
+    -17.41788,
+    14.53135,
+    -17.41788
+],
+  "geometry": {"coordinates":[14.53135,-17.41788],"type":"Point"}
+}

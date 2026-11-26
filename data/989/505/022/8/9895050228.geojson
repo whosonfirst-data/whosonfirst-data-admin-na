@@ -1,0 +1,74 @@
+{
+  "id": 9895050228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16432,-17.9509,21.16432,-17.9509",
+    "geom:latitude":-17.9509,
+    "geom:longitude":21.16432,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13455697: name \"Kangongo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13455697"
+        },
+        {
+            "citation":"GeoNames populated place 13455697: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13455697"
+        },
+        {
+            "citation":"GeoNames populated place 13455697: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13455697"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186541 (Mukwe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421186541,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13455697
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"7acffd5638171eb89b851a6c71770165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186541,
+            "locality_id":9895050228,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895050228,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kangongo",
+    "wof:parent_id":421186541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16432,
+    -17.9509,
+    21.16432,
+    -17.9509
+],
+  "geometry": {"coordinates":[21.16432,-17.9509],"type":"Point"}
+}

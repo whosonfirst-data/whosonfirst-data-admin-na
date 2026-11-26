@@ -1,0 +1,74 @@
+{
+  "id": 9895050104,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1835,-18.52515,19.1835,-18.52515",
+    "geom:latitude":-18.52515,
+    "geom:longitude":19.1835,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12949518: name \"Katjinakatji\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12949518"
+        },
+        {
+            "citation":"GeoNames populated place 12949518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12949518"
+        },
+        {
+            "citation":"GeoNames populated place 12949518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12949518"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785091 (Kahenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785091,
+        1108804903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12949518
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"cccba03b561771fd2b350bdb976e98e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785091,
+            "locality_id":9895050104,
+            "region_id":1108804903
+        }
+    ],
+    "wof:id":9895050104,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Katjinakatji",
+    "wof:parent_id":1108785091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1835,
+    -18.52515,
+    19.1835,
+    -18.52515
+],
+  "geometry": {"coordinates":[19.1835,-18.52515],"type":"Point"}
+}

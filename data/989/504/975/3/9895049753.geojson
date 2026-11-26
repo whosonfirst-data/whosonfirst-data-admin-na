@@ -1,0 +1,74 @@
+{
+  "id": 9895049753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08229,-17.47647,15.08229,-17.47647",
+    "geom:latitude":-17.47647,
+    "geom:longitude":15.08229,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908007: name \"Okafitu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908007"
+        },
+        {
+            "citation":"GeoNames populated place 12908007: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908007"
+        },
+        {
+            "citation":"GeoNames populated place 12908007: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908007"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785065 (Anamulenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908007
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"a8393d874d39d7b50902a109490680bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785065,
+            "locality_id":9895049753,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049753,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okafitu",
+    "wof:parent_id":1108785065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08229,
+    -17.47647,
+    15.08229,
+    -17.47647
+],
+  "geometry": {"coordinates":[15.08229,-17.47647],"type":"Point"}
+}

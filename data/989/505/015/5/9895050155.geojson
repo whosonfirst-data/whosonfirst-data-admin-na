@@ -1,0 +1,74 @@
+{
+  "id": 9895050155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1684,-17.96073,20.1684,-17.96073",
+    "geom:latitude":-17.96073,
+    "geom:longitude":20.1684,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13043440: name \"Rudjadja\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13043440"
+        },
+        {
+            "citation":"GeoNames populated place 13043440: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13043440"
+        },
+        {
+            "citation":"GeoNames populated place 13043440: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13043440"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785109 (Mashare), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785109,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13043440
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"83c98ab97c838d26cfe6746291710098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785109,
+            "locality_id":9895050155,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895050155,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Rudjadja",
+    "wof:parent_id":1108785109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1684,
+    -17.96073,
+    20.1684,
+    -17.96073
+],
+  "geometry": {"coordinates":[20.1684,-17.96073],"type":"Point"}
+}

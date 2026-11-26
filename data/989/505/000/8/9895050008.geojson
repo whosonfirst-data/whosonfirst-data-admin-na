@@ -1,0 +1,74 @@
+{
+  "id": 9895050008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.421,-17.63136,15.421,-17.63136",
+    "geom:latitude":-17.63136,
+    "geom:longitude":15.421,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908298: name \"Oshikushombambi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908298"
+        },
+        {
+            "citation":"GeoNames populated place 12908298: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908298"
+        },
+        {
+            "citation":"GeoNames populated place 12908298: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908298"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785175 (Oshikuku), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908298
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"fbb51c643c7a13c31736b8532c2a2080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785175,
+            "locality_id":9895050008,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895050008,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Oshikushombambi",
+    "wof:parent_id":1108785175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.421,
+    -17.63136,
+    15.421,
+    -17.63136
+],
+  "geometry": {"coordinates":[15.421,-17.63136],"type":"Point"}
+}

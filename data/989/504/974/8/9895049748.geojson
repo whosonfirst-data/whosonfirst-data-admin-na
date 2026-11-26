@@ -1,0 +1,74 @@
+{
+  "id": 9895049748,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86619,-17.59504,15.86619,-17.59504",
+    "geom:latitude":-17.59504,
+    "geom:longitude":15.86619,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908001: name \"Omakango\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908001"
+        },
+        {
+            "citation":"GeoNames populated place 12908001: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908001"
+        },
+        {
+            "citation":"GeoNames populated place 12908001: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908001"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785075 (Endola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908001
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"7a015d6b7f968076b5d90e2a0599972d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785075,
+            "locality_id":9895049748,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895049748,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Omakango",
+    "wof:parent_id":1108785075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86619,
+    -17.59504,
+    15.86619,
+    -17.59504
+],
+  "geometry": {"coordinates":[15.86619,-17.59504],"type":"Point"}
+}

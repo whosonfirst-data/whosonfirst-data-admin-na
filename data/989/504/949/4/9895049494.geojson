@@ -1,0 +1,74 @@
+{
+  "id": 9895049494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.5554,-26.05916,18.5554,-26.05916",
+    "geom:latitude":-26.05916,
+    "geom:longitude":18.5554,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535915: name \"Vredefontein\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535915"
+        },
+        {
+            "citation":"GeoNames populated place 12535915: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535915"
+        },
+        {
+            "citation":"GeoNames populated place 12535915: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535915"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175621 (Berseba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421175621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535915
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"1e6464a9892e76d4a0102e0804499e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175621,
+            "locality_id":9895049494,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049494,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Vredefontein",
+    "wof:parent_id":421175621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.5554,
+    -26.05916,
+    18.5554,
+    -26.05916
+],
+  "geometry": {"coordinates":[18.5554,-26.05916],"type":"Point"}
+}

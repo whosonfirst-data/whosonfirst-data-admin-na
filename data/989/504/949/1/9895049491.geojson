@@ -1,0 +1,74 @@
+{
+  "id": 9895049491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62651,-26.08775,18.62651,-26.08775",
+    "geom:latitude":-26.08775,
+    "geom:longitude":18.62651,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535908: name \"Khai Ams\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535908"
+        },
+        {
+            "citation":"GeoNames populated place 12535908: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535908"
+        },
+        {
+            "citation":"GeoNames populated place 12535908: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535908"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175621 (Berseba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421175621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535908
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9136925958af70c476f7228953b979ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175621,
+            "locality_id":9895049491,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049491,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Khai Ams",
+    "wof:parent_id":421175621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62651,
+    -26.08775,
+    18.62651,
+    -26.08775
+],
+  "geometry": {"coordinates":[18.62651,-26.08775],"type":"Point"}
+}

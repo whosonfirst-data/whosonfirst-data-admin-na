@@ -1,0 +1,74 @@
+{
+  "id": 9895049482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18297,-26.58347,18.18297,-26.58347",
+    "geom:latitude":-26.58347,
+    "geom:longitude":18.18297,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12531632: name \"Rifle Range\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12531632"
+        },
+        {
+            "citation":"GeoNames populated place 12531632: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12531632"
+        },
+        {
+            "citation":"GeoNames populated place 12531632: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12531632"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421203277 (Keetmanshoop Urban), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421203277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12531632
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"c39fcb5ff399a051c86e13b852892111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421203277,
+            "locality_id":9895049482,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049482,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Rifle Range",
+    "wof:parent_id":421203277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18297,
+    -26.58347,
+    18.18297,
+    -26.58347
+],
+  "geometry": {"coordinates":[18.18297,-26.58347],"type":"Point"}
+}

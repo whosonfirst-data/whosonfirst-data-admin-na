@@ -1,0 +1,74 @@
+{
+  "id": 9895049597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89935,-21.60683,16.89935,-21.60683",
+    "geom:latitude":-21.60683,
+    "geom:longitude":16.89935,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12730416: name \"Otjiamongombe West\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12730416"
+        },
+        {
+            "citation":"GeoNames populated place 12730416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12730416"
+        },
+        {
+            "citation":"GeoNames populated place 12730416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12730416"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421166795 (Omatako), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675217,
+        102191573,
+        421166795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12730416
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"39cee1dc47dc271a264ea5fe4d132191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421166795,
+            "locality_id":9895049597,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":9895049597,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Otjiamongombe West",
+    "wof:parent_id":421166795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89935,
+    -21.60683,
+    16.89935,
+    -21.60683
+],
+  "geometry": {"coordinates":[16.89935,-21.60683],"type":"Point"}
+}

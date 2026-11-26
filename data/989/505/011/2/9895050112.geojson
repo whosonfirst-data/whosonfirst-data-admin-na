@@ -1,0 +1,74 @@
+{
+  "id": 9895050112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5603,-17.95452,22.5603,-17.95452",
+    "geom:latitude":-17.95452,
+    "geom:longitude":22.5603,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12949576: name \"Chetto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12949576"
+        },
+        {
+            "citation":"GeoNames populated place 12949576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12949576"
+        },
+        {
+            "citation":"GeoNames populated place 12949576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12949576"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175609 (Kongola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421175609,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12949576
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"df3622827d8df76a714e86c397d33e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175609,
+            "locality_id":9895050112,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895050112,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Chetto",
+    "wof:parent_id":421175609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5603,
+    -17.95452,
+    22.5603,
+    -17.95452
+],
+  "geometry": {"coordinates":[22.5603,-17.95452],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64954,-17.8363,24.64954,-17.8363",
+    "geom:latitude":-17.8363,
+    "geom:longitude":24.64954,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13095702: name \"Limai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13095702"
+        },
+        {
+            "citation":"GeoNames populated place 13095702: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13095702"
+        },
+        {
+            "citation":"GeoNames populated place 13095702: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13095702"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421199941 (Katima Muliro Rural), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421199941,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13095702
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"7e26e8fd0608951b45210349e305369e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199941,
+            "locality_id":9895050171,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895050171,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Limai",
+    "wof:parent_id":421199941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64954,
+    -17.8363,
+    24.64954,
+    -17.8363
+],
+  "geometry": {"coordinates":[24.64954,-17.8363],"type":"Point"}
+}

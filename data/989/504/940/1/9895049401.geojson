@@ -1,0 +1,74 @@
+{
+  "id": 9895049401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.65167,-20.85015,16.65167,-20.85015",
+    "geom:latitude":-20.85015,
+    "geom:longitude":16.65167,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11668485: name \"Okonjati\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11668485"
+        },
+        {
+            "citation":"GeoNames populated place 11668485: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11668485"
+        },
+        {
+            "citation":"GeoNames populated place 11668485: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11668485"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421166795 (Omatako), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675217,
+        102191573,
+        421166795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11668485
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"758e681d2963487223271ffd1c8e6547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421166795,
+            "locality_id":9895049401,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":9895049401,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okonjati",
+    "wof:parent_id":421166795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.65167,
+    -20.85015,
+    16.65167,
+    -20.85015
+],
+  "geometry": {"coordinates":[16.65167,-20.85015],"type":"Point"}
+}

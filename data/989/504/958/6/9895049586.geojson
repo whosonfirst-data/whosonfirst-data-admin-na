@@ -1,0 +1,74 @@
+{
+  "id": 9895049586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.57311,-21.95562,15.57311,-21.95562",
+    "geom:latitude":-21.95562,
+    "geom:longitude":15.57311,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12727326: name \"Goabeb Dairy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12727326"
+        },
+        {
+            "citation":"GeoNames populated place 12727326: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12727326"
+        },
+        {
+            "citation":"GeoNames populated place 12727326: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12727326"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186173 (Karibib), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675213,
+        102191573,
+        421186173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12727326
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"4947bdc9070f46f68061675ab9f04320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186173,
+            "locality_id":9895049586,
+            "region_id":85675213
+        }
+    ],
+    "wof:id":9895049586,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Goabeb Dairy",
+    "wof:parent_id":421186173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.57311,
+    -21.95562,
+    15.57311,
+    -21.95562
+],
+  "geometry": {"coordinates":[15.57311,-21.95562],"type":"Point"}
+}

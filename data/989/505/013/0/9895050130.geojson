@@ -1,0 +1,74 @@
+{
+  "id": 9895050130,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.42777,-21.8203,20.42777,-21.8203",
+    "geom:latitude":-21.8203,
+    "geom:longitude":20.42777,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13037555: name \"Okoutjove\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13037555"
+        },
+        {
+            "citation":"GeoNames populated place 13037555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13037555"
+        },
+        {
+            "citation":"GeoNames populated place 13037555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13037555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785183 (Otjombinde), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675235,
+        102191573,
+        1108785183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13037555
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"0ce3fd12a6f3e9f281dbd4fa361fee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785183,
+            "locality_id":9895050130,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":9895050130,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okoutjove",
+    "wof:parent_id":1108785183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.42777,
+    -21.8203,
+    20.42777,
+    -21.8203
+],
+  "geometry": {"coordinates":[20.42777,-21.8203],"type":"Point"}
+}

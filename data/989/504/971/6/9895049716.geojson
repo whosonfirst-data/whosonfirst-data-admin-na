@@ -1,0 +1,74 @@
+{
+  "id": 9895049716,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.393,-18.00833,20.393,-18.00833",
+    "geom:latitude":-18.00833,
+    "geom:longitude":20.393,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12905141: name \"Shandogho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12905141"
+        },
+        {
+            "citation":"GeoNames populated place 12905141: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12905141"
+        },
+        {
+            "citation":"GeoNames populated place 12905141: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12905141"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785109 (Mashare), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785109,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12905141
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"00b7efb4b8e8385810bf5175b7484694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785109,
+            "locality_id":9895049716,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895049716,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Shandogho",
+    "wof:parent_id":1108785109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.393,
+    -18.00833,
+    20.393,
+    -18.00833
+],
+  "geometry": {"coordinates":[20.393,-18.00833],"type":"Point"}
+}

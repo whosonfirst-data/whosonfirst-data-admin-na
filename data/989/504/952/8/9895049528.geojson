@@ -1,0 +1,74 @@
+{
+  "id": 9895049528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27666,-25.03149,17.27666,-25.03149",
+    "geom:latitude":-25.03149,
+    "geom:longitude":17.27666,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12556479: name \"Ganus\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12556479"
+        },
+        {
+            "citation":"GeoNames populated place 12556479: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12556479"
+        },
+        {
+            "citation":"GeoNames populated place 12556479: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12556479"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170191 (Gibeon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675199,
+        102191573,
+        421170191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12556479
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"8b7cabf6a1a47a4596d5719aee0bc06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421170191,
+            "locality_id":9895049528,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":9895049528,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ganus",
+    "wof:parent_id":421170191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27666,
+    -25.03149,
+    17.27666,
+    -25.03149
+],
+  "geometry": {"coordinates":[17.27666,-25.03149],"type":"Point"}
+}

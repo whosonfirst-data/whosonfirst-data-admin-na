@@ -1,0 +1,74 @@
+{
+  "id": 9895050045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12065,-17.94083,21.12065,-17.94083",
+    "geom:latitude":-17.94083,
+    "geom:longitude":21.12065,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12946898: name \"Ndurukoro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12946898"
+        },
+        {
+            "citation":"GeoNames populated place 12946898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12946898"
+        },
+        {
+            "citation":"GeoNames populated place 12946898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12946898"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186541 (Mukwe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421186541,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12946898
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"201f3294a0d95a82a208adba7c0adf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186541,
+            "locality_id":9895050045,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895050045,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ndurukoro",
+    "wof:parent_id":421186541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12065,
+    -17.94083,
+    21.12065,
+    -17.94083
+],
+  "geometry": {"coordinates":[21.12065,-17.94083],"type":"Point"}
+}

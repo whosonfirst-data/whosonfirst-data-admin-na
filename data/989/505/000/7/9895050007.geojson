@@ -1,0 +1,74 @@
+{
+  "id": 9895050007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01998,-17.61278,15.01998,-17.61278",
+    "geom:latitude":-17.61278,
+    "geom:longitude":15.01998,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908297: name \"Eeshe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908297"
+        },
+        {
+            "citation":"GeoNames populated place 12908297: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908297"
+        },
+        {
+            "citation":"GeoNames populated place 12908297: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908297"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785185 (Outapi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908297
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"f719d7f457ac4b535e6397e439ae23f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785185,
+            "locality_id":9895050007,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895050007,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Eeshe",
+    "wof:parent_id":1108785185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01998,
+    -17.61278,
+    15.01998,
+    -17.61278
+],
+  "geometry": {"coordinates":[15.01998,-17.61278],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895049413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63554,-17.43437,14.63554,-17.43437",
+    "geom:latitude":-17.43437,
+    "geom:longitude":14.63554,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175965: name \"Epalela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175965"
+        },
+        {
+            "citation":"GeoNames populated place 12175965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175965"
+        },
+        {
+            "citation":"GeoNames populated place 12175965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175965"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785157 (Onesi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175965
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9c5ce708232a1b6a10d04b6c6819984f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785157,
+            "locality_id":9895049413,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049413,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Epalela",
+    "wof:parent_id":1108785157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63554,
+    -17.43437,
+    14.63554,
+    -17.43437
+],
+  "geometry": {"coordinates":[14.63554,-17.43437],"type":"Point"}
+}

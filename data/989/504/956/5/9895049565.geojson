@@ -1,0 +1,74 @@
+{
+  "id": 9895049565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.4131,-21.53103,19.4131,-21.53103",
+    "geom:latitude":-21.53103,
+    "geom:longitude":19.4131,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12723910: name \"Otjitetewe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12723910"
+        },
+        {
+            "citation":"GeoNames populated place 12723910: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12723910"
+        },
+        {
+            "citation":"GeoNames populated place 12723910: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12723910"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785083 (Epukiro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675235,
+        102191573,
+        1108785083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12723910
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"7d54d9385148713d1ba30848a8a3cb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785083,
+            "locality_id":9895049565,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":9895049565,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Otjitetewe",
+    "wof:parent_id":1108785083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.4131,
+    -21.53103,
+    19.4131,
+    -21.53103
+],
+  "geometry": {"coordinates":[19.4131,-21.53103],"type":"Point"}
+}

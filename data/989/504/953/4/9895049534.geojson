@@ -1,0 +1,74 @@
+{
+  "id": 9895049534,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49478,-28.55794,16.49478,-28.55794",
+    "geom:latitude":-28.55794,
+    "geom:longitude":16.49478,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12561729: name \"Swartkop\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12561729"
+        },
+        {
+            "citation":"GeoNames populated place 12561729: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12561729"
+        },
+        {
+            "citation":"GeoNames populated place 12561729: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12561729"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421190657 (Oranjemund), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421190657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12561729
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"25d1d14f5cda49af955db4e282bc526a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421190657,
+            "locality_id":9895049534,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049534,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Swartkop",
+    "wof:parent_id":421190657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49478,
+    -28.55794,
+    16.49478,
+    -28.55794
+],
+  "geometry": {"coordinates":[16.49478,-28.55794],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895049395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20419,-22.76344,19.20419,-22.76344",
+    "geom:latitude":-22.76344,
+    "geom:longitude":19.20419,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3358446: name \"Ben-Hur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3358446"
+        },
+        {
+            "citation":"GeoNames populated place 3358446: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3358446"
+        },
+        {
+            "citation":"GeoNames populated place 3358446: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3358446"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175607 (Kalahari), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675235,
+        102191573,
+        421175607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358446
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"0ccc9a63dceb21f7b0efb0fe413bf73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175607,
+            "locality_id":9895049395,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":9895049395,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ben-Hur",
+    "wof:parent_id":421175607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20419,
+    -22.76344,
+    19.20419,
+    -22.76344
+],
+  "geometry": {"coordinates":[19.20419,-22.76344],"type":"Point"}
+}

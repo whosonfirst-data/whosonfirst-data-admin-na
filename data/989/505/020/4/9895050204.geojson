@@ -1,0 +1,74 @@
+{
+  "id": 9895050204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01518,-17.39355,15.01518,-17.39355",
+    "geom:latitude":-17.39355,
+    "geom:longitude":15.01518,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13117758: name \"Ontilindi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13117758"
+        },
+        {
+            "citation":"GeoNames populated place 13117758: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13117758"
+        },
+        {
+            "citation":"GeoNames populated place 13117758: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13117758"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785065 (Anamulenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13117758
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"aa2a74b330f8380d3f67aa611f8e4f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785065,
+            "locality_id":9895050204,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895050204,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ontilindi",
+    "wof:parent_id":1108785065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01518,
+    -17.39355,
+    15.01518,
+    -17.39355
+],
+  "geometry": {"coordinates":[15.01518,-17.39355],"type":"Point"}
+}

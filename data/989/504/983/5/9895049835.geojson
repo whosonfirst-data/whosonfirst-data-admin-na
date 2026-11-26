@@ -1,0 +1,74 @@
+{
+  "id": 9895049835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81546,-17.83871,15.81546,-17.83871",
+    "geom:latitude":-17.83871,
+    "geom:longitude":15.81546,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908098: name \"Okathaklingindjo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908098"
+        },
+        {
+            "citation":"GeoNames populated place 12908098: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908098"
+        },
+        {
+            "citation":"GeoNames populated place 12908098: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908098"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785153 (Ondangwa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675227,
+        102191573,
+        1108785153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908098
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"516a39331fb71eb986139a829061f40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785153,
+            "locality_id":9895049835,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":9895049835,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okathaklingindjo",
+    "wof:parent_id":1108785153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81546,
+    -17.83871,
+    15.81546,
+    -17.83871
+],
+  "geometry": {"coordinates":[15.81546,-17.83871],"type":"Point"}
+}

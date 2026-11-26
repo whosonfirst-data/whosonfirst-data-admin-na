@@ -1,0 +1,74 @@
+{
+  "id": 9895049805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08003,-17.72191,15.08003,-17.72191",
+    "geom:latitude":-17.72191,
+    "geom:longitude":15.08003,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908065: name \"Epangu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908065"
+        },
+        {
+            "citation":"GeoNames populated place 12908065: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908065"
+        },
+        {
+            "citation":"GeoNames populated place 12908065: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908065"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785117 (Ogongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908065
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"aa4b7cc4aae099dcfd7bab75746bb85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785117,
+            "locality_id":9895049805,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049805,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Epangu",
+    "wof:parent_id":1108785117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08003,
+    -17.72191,
+    15.08003,
+    -17.72191
+],
+  "geometry": {"coordinates":[15.08003,-17.72191],"type":"Point"}
+}

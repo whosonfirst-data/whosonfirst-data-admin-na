@@ -1,0 +1,74 @@
+{
+  "id": 9895049459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16034,-28.09968,18.16034,-28.09968",
+    "geom:latitude":-28.09968,
+    "geom:longitude":18.16034,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12520960: name \"Bothashoop\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12520960"
+        },
+        {
+            "citation":"GeoNames populated place 12520960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12520960"
+        },
+        {
+            "citation":"GeoNames populated place 12520960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12520960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785097 (Karas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        1108785097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12520960
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"af0d2b2bf129ca456d8085585662ba9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785097,
+            "locality_id":9895049459,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049459,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Bothashoop",
+    "wof:parent_id":1108785097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16034,
+    -28.09968,
+    18.16034,
+    -28.09968
+],
+  "geometry": {"coordinates":[18.16034,-28.09968],"type":"Point"}
+}

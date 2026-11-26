@@ -1,0 +1,74 @@
+{
+  "id": 9895049475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16539,-26.66309,15.16539,-26.66309",
+    "geom:latitude":-26.66309,
+    "geom:longitude":15.16539,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12530676: name \"Gaol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12530676"
+        },
+        {
+            "citation":"GeoNames populated place 12530676: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12530676"
+        },
+        {
+            "citation":"GeoNames populated place 12530676: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12530676"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421200829 (Luderitz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421200829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12530676
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"47146bcf4699ba7a5161ca56438cc31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421200829,
+            "locality_id":9895049475,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049475,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Gaol",
+    "wof:parent_id":421200829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16539,
+    -26.66309,
+    15.16539,
+    -26.66309
+],
+  "geometry": {"coordinates":[15.16539,-26.66309],"type":"Point"}
+}

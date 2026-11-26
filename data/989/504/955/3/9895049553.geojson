@@ -1,0 +1,74 @@
+{
+  "id": 9895049553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6409,-22.13935,16.6409,-22.13935",
+    "geom:latitude":-22.13935,
+    "geom:longitude":16.6409,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12693741: name \"Klein Barmen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12693741"
+        },
+        {
+            "citation":"GeoNames populated place 12693741: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12693741"
+        },
+        {
+            "citation":"GeoNames populated place 12693741: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12693741"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421201551 (Okahandja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675217,
+        102191573,
+        421201551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12693741
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9d19c1bd3c503aa03b32b1daaa607860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421201551,
+            "locality_id":9895049553,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":9895049553,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Klein Barmen",
+    "wof:parent_id":421201551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6409,
+    -22.13935,
+    16.6409,
+    -22.13935
+],
+  "geometry": {"coordinates":[16.6409,-22.13935],"type":"Point"}
+}

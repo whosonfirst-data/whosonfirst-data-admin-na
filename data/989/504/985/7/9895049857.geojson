@@ -1,0 +1,74 @@
+{
+  "id": 9895049857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.70791,-17.88998,15.70791,-17.88998",
+    "geom:latitude":-17.88998,
+    "geom:longitude":15.70791,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908121: name \"Likuku\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908121"
+        },
+        {
+            "citation":"GeoNames populated place 12908121: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908121"
+        },
+        {
+            "citation":"GeoNames populated place 12908121: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908121"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785169 (Oshakati East), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675227,
+        102191573,
+        1108785169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908121
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"35748524ce6760f1fe9594108c66a765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785169,
+            "locality_id":9895049857,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":9895049857,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Likuku",
+    "wof:parent_id":1108785169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.70791,
+    -17.88998,
+    15.70791,
+    -17.88998
+],
+  "geometry": {"coordinates":[15.70791,-17.88998],"type":"Point"}
+}

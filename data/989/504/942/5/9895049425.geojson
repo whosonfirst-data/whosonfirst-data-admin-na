@@ -1,0 +1,74 @@
+{
+  "id": 9895049425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89357,-23.50236,19.89357,-23.50236",
+    "geom:latitude":-23.50236,
+    "geom:longitude":19.89357,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12238015: name \"Motsomi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12238015"
+        },
+        {
+            "citation":"GeoNames populated place 12238015: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12238015"
+        },
+        {
+            "citation":"GeoNames populated place 12238015: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12238015"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785063 (Aminius), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675235,
+        102191573,
+        1108785063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12238015
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"4f783d2bd3019eb521072e0c9138d72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785063,
+            "locality_id":9895049425,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":9895049425,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Motsomi",
+    "wof:parent_id":1108785063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89357,
+    -23.50236,
+    19.89357,
+    -23.50236
+],
+  "geometry": {"coordinates":[19.89357,-23.50236],"type":"Point"}
+}

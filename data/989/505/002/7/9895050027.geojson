@@ -1,0 +1,74 @@
+{
+  "id": 9895050027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.21741,-17.44171,17.21741,-17.44171",
+    "geom:latitude":-17.44171,
+    "geom:longitude":17.21741,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12942788: name \"Eendobe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12942788"
+        },
+        {
+            "citation":"GeoNames populated place 12942788: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12942788"
+        },
+        {
+            "citation":"GeoNames populated place 12942788: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12942788"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785137 (Okongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12942788
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"31aa5b0e686cc8e3aabe706c6a47857a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785137,
+            "locality_id":9895050027,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895050027,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Eendobe",
+    "wof:parent_id":1108785137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.21741,
+    -17.44171,
+    17.21741,
+    -17.44171
+],
+  "geometry": {"coordinates":[17.21741,-17.44171],"type":"Point"}
+}

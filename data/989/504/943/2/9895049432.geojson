@@ -1,0 +1,74 @@
+{
+  "id": 9895049432,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94507,-17.65861,15.94507,-17.65861",
+    "geom:latitude":-17.65861,
+    "geom:longitude":15.94507,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324158: name \"Ondeihaluka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324158"
+        },
+        {
+            "citation":"GeoNames populated place 12324158: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324158"
+        },
+        {
+            "citation":"GeoNames populated place 12324158: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324158"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785145 (Omulonga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324158
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"d9a63b54d30ac431c74fbe34820656aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785145,
+            "locality_id":9895049432,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895049432,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ondeihaluka",
+    "wof:parent_id":1108785145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94507,
+    -17.65861,
+    15.94507,
+    -17.65861
+],
+  "geometry": {"coordinates":[15.94507,-17.65861],"type":"Point"}
+}

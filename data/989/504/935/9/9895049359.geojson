@@ -1,0 +1,74 @@
+{
+  "id": 9895049359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39344,-17.78877,23.39344,-17.78877",
+    "geom:latitude":-17.78877,
+    "geom:longitude":23.39344,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 877157: name \"Kongola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/877157"
+        },
+        {
+            "citation":"GeoNames populated place 877157: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/877157"
+        },
+        {
+            "citation":"GeoNames populated place 877157: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/877157"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175609 (Kongola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421175609,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":877157
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"168d3be5a81ee3252c7dcb17825cf7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175609,
+            "locality_id":9895049359,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895049359,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kongola",
+    "wof:parent_id":421175609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39344,
+    -17.78877,
+    23.39344,
+    -17.78877
+],
+  "geometry": {"coordinates":[23.39344,-17.78877],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895049373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7276,-17.91013,15.7276,-17.91013",
+    "geom:latitude":-17.91013,
+    "geom:longitude":15.7276,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3354428: name \"Ompundia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3354428"
+        },
+        {
+            "citation":"GeoNames populated place 3354428: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3354428"
+        },
+        {
+            "citation":"GeoNames populated place 3354428: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3354428"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785169 (Oshakati East), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675227,
+        102191573,
+        1108785169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354428
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9928ddc5a8689d43116c941762d3d656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785169,
+            "locality_id":9895049373,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":9895049373,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ompundia",
+    "wof:parent_id":1108785169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7276,
+    -17.91013,
+    15.7276,
+    -17.91013
+],
+  "geometry": {"coordinates":[15.7276,-17.91013],"type":"Point"}
+}

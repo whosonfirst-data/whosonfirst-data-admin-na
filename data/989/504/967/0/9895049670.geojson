@@ -1,0 +1,74 @@
+{
+  "id": 9895049670,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81354,-19.67447,15.81354,-19.67447",
+    "geom:latitude":-19.67447,
+    "geom:longitude":15.81354,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12806784: name \"Boskop\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12806784"
+        },
+        {
+            "citation":"GeoNames populated place 12806784: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12806784"
+        },
+        {
+            "citation":"GeoNames populated place 12806784: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12806784"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785093 (Kamanjab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675209,
+        102191573,
+        1108785093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12806784
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"55fbd065ce07c66f9e3574d905f067b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785093,
+            "locality_id":9895049670,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":9895049670,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Boskop",
+    "wof:parent_id":1108785093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81354,
+    -19.67447,
+    15.81354,
+    -19.67447
+],
+  "geometry": {"coordinates":[15.81354,-19.67447],"type":"Point"}
+}

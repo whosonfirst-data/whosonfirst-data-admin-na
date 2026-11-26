@@ -1,0 +1,74 @@
+{
+  "id": 9895049573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08213,-21.27435,19.08213,-21.27435",
+    "geom:latitude":-21.27435,
+    "geom:longitude":19.08213,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12723948: name \"Oukango\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12723948"
+        },
+        {
+            "citation":"GeoNames populated place 12723948: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12723948"
+        },
+        {
+            "citation":"GeoNames populated place 12723948: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12723948"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785181 (Otjinene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675235,
+        102191573,
+        1108785181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12723948
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"69e4a8958ca9041ea1dd2f0f2eb4b97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785181,
+            "locality_id":9895049573,
+            "region_id":85675235
+        }
+    ],
+    "wof:id":9895049573,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Oukango",
+    "wof:parent_id":1108785181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08213,
+    -21.27435,
+    19.08213,
+    -21.27435
+],
+  "geometry": {"coordinates":[19.08213,-21.27435],"type":"Point"}
+}

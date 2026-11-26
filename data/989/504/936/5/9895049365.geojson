@@ -1,0 +1,74 @@
+{
+  "id": 9895049365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41436,-18.44877,14.41436,-18.44877",
+    "geom:latitude":-18.44877,
+    "geom:longitude":14.41436,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3354103: name \"Onyekakowa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3354103"
+        },
+        {
+            "citation":"GeoNames populated place 3354103: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3354103"
+        },
+        {
+            "citation":"GeoNames populated place 3354103: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3354103"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172943 (Ruacana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        421172943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3354103
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"cfed376204f7f3b67395843a804fed1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421172943,
+            "locality_id":9895049365,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049365,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Onyekakowa",
+    "wof:parent_id":421172943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41436,
+    -18.44877,
+    14.41436,
+    -18.44877
+],
+  "geometry": {"coordinates":[14.41436,-18.44877],"type":"Point"}
+}

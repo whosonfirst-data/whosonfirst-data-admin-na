@@ -1,0 +1,74 @@
+{
+  "id": 9895050210,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.6983,-17.71907,14.6983,-17.71907",
+    "geom:latitude":-17.71907,
+    "geom:longitude":14.6983,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13455295: name \"Ongulumbashe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13455295"
+        },
+        {
+            "citation":"GeoNames populated place 13455295: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13455295"
+        },
+        {
+            "citation":"GeoNames populated place 13455295: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13455295"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785201 (Tsandi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13455295
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"e8b593fda0e6a1199f1e46608c93729b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785201,
+            "locality_id":9895050210,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895050210,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Ongulumbashe",
+    "wof:parent_id":1108785201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.6983,
+    -17.71907,
+    14.6983,
+    -17.71907
+],
+  "geometry": {"coordinates":[14.6983,-17.71907],"type":"Point"}
+}

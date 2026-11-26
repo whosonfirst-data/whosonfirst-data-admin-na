@@ -1,0 +1,74 @@
+{
+  "id": 9895049859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34896,-17.63162,15.34896,-17.63162",
+    "geom:latitude":-17.63162,
+    "geom:longitude":15.34896,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908125: name \"Okalumbi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908125"
+        },
+        {
+            "citation":"GeoNames populated place 12908125: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908125"
+        },
+        {
+            "citation":"GeoNames populated place 12908125: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908125"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785175 (Oshikuku), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675223,
+        102191573,
+        1108785175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908125
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"031dda86316d96078fd0b711acf73fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785175,
+            "locality_id":9895049859,
+            "region_id":85675223
+        }
+    ],
+    "wof:id":9895049859,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Okalumbi",
+    "wof:parent_id":1108785175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34896,
+    -17.63162,
+    15.34896,
+    -17.63162
+],
+  "geometry": {"coordinates":[15.34896,-17.63162],"type":"Point"}
+}

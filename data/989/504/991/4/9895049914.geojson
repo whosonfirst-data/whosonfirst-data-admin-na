@@ -1,0 +1,74 @@
+{
+  "id": 9895049914,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.8576,-17.96781,15.8576,-17.96781",
+    "geom:latitude":-17.96781,
+    "geom:longitude":15.8576,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908187: name \"Osholuyu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908187"
+        },
+        {
+            "citation":"GeoNames populated place 12908187: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908187"
+        },
+        {
+            "citation":"GeoNames populated place 12908187: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908187"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183085 (Uukwiyu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675227,
+        102191573,
+        421183085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908187
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9bf31da976654c35c07eaf20528c9a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421183085,
+            "locality_id":9895049914,
+            "region_id":85675227
+        }
+    ],
+    "wof:id":9895049914,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Osholuyu",
+    "wof:parent_id":421183085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.8576,
+    -17.96781,
+    15.8576,
+    -17.96781
+],
+  "geometry": {"coordinates":[15.8576,-17.96781],"type":"Point"}
+}

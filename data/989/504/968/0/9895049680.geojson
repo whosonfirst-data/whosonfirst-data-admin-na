@@ -1,0 +1,74 @@
+{
+  "id": 9895049680,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57607,-19.44586,14.57607,-19.44586",
+    "geom:latitude":-19.44586,
+    "geom:longitude":14.57607,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12814615: name \"Arendsnes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12814615"
+        },
+        {
+            "citation":"GeoNames populated place 12814615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12814615"
+        },
+        {
+            "citation":"GeoNames populated place 12814615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12814615"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785093 (Kamanjab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675209,
+        102191573,
+        1108785093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12814615
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"9a2e02f78d521a9bd734303a39803cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785093,
+            "locality_id":9895049680,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":9895049680,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Arendsnes",
+    "wof:parent_id":1108785093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57607,
+    -19.44586,
+    14.57607,
+    -19.44586
+],
+  "geometry": {"coordinates":[14.57607,-19.44586],"type":"Point"}
+}

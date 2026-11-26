@@ -1,0 +1,74 @@
+{
+  "id": 9895049390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.88112,-17.43434,15.88112,-17.43434",
+    "geom:latitude":-17.43434,
+    "geom:longitude":15.88112,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3357682: name \"Engela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3357682"
+        },
+        {
+            "citation":"GeoNames populated place 3357682: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3357682"
+        },
+        {
+            "citation":"GeoNames populated place 3357682: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3357682"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785077 (Engela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675231,
+        102191573,
+        1108785077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3357682
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"a0a4bebf35dfa148ebfa9f01643007aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785077,
+            "locality_id":9895049390,
+            "region_id":85675231
+        }
+    ],
+    "wof:id":9895049390,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Engela",
+    "wof:parent_id":1108785077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.88112,
+    -17.43434,
+    15.88112,
+    -17.43434
+],
+  "geometry": {"coordinates":[15.88112,-17.43434],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895049668,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.92756,-19.5272,18.92756,-19.5272",
+    "geom:latitude":-19.5272,
+    "geom:longitude":18.92756,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12791548: name \"Terazzo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12791548"
+        },
+        {
+            "citation":"GeoNames populated place 12791548: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12791548"
+        },
+        {
+            "citation":"GeoNames populated place 12791548: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12791548"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785203 (Tsumkwe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675217,
+        102191573,
+        1108785203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12791548
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"86a8ce99b18455af5ae91fb9084e8f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785203,
+            "locality_id":9895049668,
+            "region_id":85675217
+        }
+    ],
+    "wof:id":9895049668,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Terazzo",
+    "wof:parent_id":1108785203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.92756,
+    -19.5272,
+    18.92756,
+    -19.5272
+],
+  "geometry": {"coordinates":[18.92756,-19.5272],"type":"Point"}
+}

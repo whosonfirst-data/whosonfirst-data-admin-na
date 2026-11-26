@@ -1,0 +1,74 @@
+{
+  "id": 9895049673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87372,-18.07053,13.87372,-18.07053",
+    "geom:latitude":-18.07053,
+    "geom:longitude":13.87372,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12806825: name \"Otjorungondo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12806825"
+        },
+        {
+            "citation":"GeoNames populated place 12806825: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12806825"
+        },
+        {
+            "citation":"GeoNames populated place 12806825: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12806825"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186343 (Opuwo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675209,
+        102191573,
+        421186343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12806825
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"c1faae767761ec398d7c2f766f38e512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186343,
+            "locality_id":9895049673,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":9895049673,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Otjorungondo",
+    "wof:parent_id":421186343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87372,
+    -18.07053,
+    13.87372,
+    -18.07053
+],
+  "geometry": {"coordinates":[13.87372,-18.07053],"type":"Point"}
+}

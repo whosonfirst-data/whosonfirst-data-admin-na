@@ -1,0 +1,74 @@
+{
+  "id": 9895050181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66317,-17.65976,24.66317,-17.65976",
+    "geom:latitude":-17.65976,
+    "geom:longitude":24.66317,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13095716: name \"Muhulume\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13095716"
+        },
+        {
+            "citation":"GeoNames populated place 13095716: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13095716"
+        },
+        {
+            "citation":"GeoNames populated place 13095716: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13095716"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785089 (Kabe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785089,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13095716
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"42375d877229cf2b277fea3e2e0c6d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785089,
+            "locality_id":9895050181,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895050181,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Muhulume",
+    "wof:parent_id":1108785089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66317,
+    -17.65976,
+    24.66317,
+    -17.65976
+],
+  "geometry": {"coordinates":[24.66317,-17.65976],"type":"Point"}
+}

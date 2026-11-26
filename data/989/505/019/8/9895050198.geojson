@@ -1,0 +1,74 @@
+{
+  "id": 9895050198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44281,-17.93482,24.44281,-17.93482",
+    "geom:latitude":-17.93482,
+    "geom:longitude":24.44281,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13095743: name \"Bwara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13095743"
+        },
+        {
+            "citation":"GeoNames populated place 13095743: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13095743"
+        },
+        {
+            "citation":"GeoNames populated place 13095743: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13095743"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421199941 (Katima Muliro Rural), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421199941,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13095743
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"a76afc0ad5932d6dc424386d00de0ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421199941,
+            "locality_id":9895050198,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895050198,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Bwara",
+    "wof:parent_id":421199941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44281,
+    -17.93482,
+    24.44281,
+    -17.93482
+],
+  "geometry": {"coordinates":[24.44281,-17.93482],"type":"Point"}
+}

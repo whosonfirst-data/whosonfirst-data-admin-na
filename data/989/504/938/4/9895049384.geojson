@@ -1,0 +1,74 @@
+{
+  "id": 9895049384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72799,-26.63588,17.72799,-26.63588",
+    "geom:latitude":-26.63588,
+    "geom:longitude":17.72799,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3356071: name \"Kobobieb\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3356071"
+        },
+        {
+            "citation":"GeoNames populated place 3356071: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3356071"
+        },
+        {
+            "citation":"GeoNames populated place 3356071: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3356071"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175621 (Berseba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675195,
+        102191573,
+        421175621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3356071
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"89dc1d51a9b67209e0dd13137b9b39af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175621,
+            "locality_id":9895049384,
+            "region_id":85675195
+        }
+    ],
+    "wof:id":9895049384,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kobobieb",
+    "wof:parent_id":421175621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72799,
+    -26.63588,
+    17.72799,
+    -26.63588
+],
+  "geometry": {"coordinates":[17.72799,-26.63588],"type":"Point"}
+}

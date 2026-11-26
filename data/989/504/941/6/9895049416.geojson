@@ -1,0 +1,74 @@
+{
+  "id": 9895049416,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.37881,-16.98503,13.37881,-16.98503",
+    "geom:latitude":-16.98503,
+    "geom:longitude":13.37881,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225750: name \"Onungurura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225750"
+        },
+        {
+            "citation":"GeoNames populated place 12225750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225750"
+        },
+        {
+            "citation":"GeoNames populated place 12225750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170307 (Epupa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675209,
+        102191573,
+        421170307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225750
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"b9e7828af2e6181ff47e12e9890b4f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421170307,
+            "locality_id":9895049416,
+            "region_id":85675209
+        }
+    ],
+    "wof:id":9895049416,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Onungurura",
+    "wof:parent_id":421170307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.37881,
+    -16.98503,
+    13.37881,
+    -16.98503
+],
+  "geometry": {"coordinates":[13.37881,-16.98503],"type":"Point"}
+}

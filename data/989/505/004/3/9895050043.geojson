@@ -1,0 +1,74 @@
+{
+  "id": 9895050043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55479,-18.01569,20.55479,-18.01569",
+    "geom:latitude":-18.01569,
+    "geom:longitude":20.55479,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12946890: name \"Kamundema\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12946890"
+        },
+        {
+            "citation":"GeoNames populated place 12946890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12946890"
+        },
+        {
+            "citation":"GeoNames populated place 12946890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12946890"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785115 (Ndiyona), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785115,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12946890
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"55b3ac1312ce716ae97179cad4b7a12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":9895050043,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895050043,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Kamundema",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55479,
+    -18.01569,
+    20.55479,
+    -18.01569
+],
+  "geometry": {"coordinates":[20.55479,-18.01569],"type":"Point"}
+}

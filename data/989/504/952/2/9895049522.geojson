@@ -1,0 +1,74 @@
+{
+  "id": 9895049522,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81151,-24.85988,18.81151,-24.85988",
+    "geom:latitude":-24.85988,
+    "geom:longitude":18.81151,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12538252: name \"Nagenoeg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12538252"
+        },
+        {
+            "citation":"GeoNames populated place 12538252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12538252"
+        },
+        {
+            "citation":"GeoNames populated place 12538252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12538252"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186223 (Mariental Rural), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        85675199,
+        102191573,
+        421186223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12538252
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"aeff5cd0f3e08f411e6b398325967442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421186223,
+            "locality_id":9895049522,
+            "region_id":85675199
+        }
+    ],
+    "wof:id":9895049522,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Nagenoeg",
+    "wof:parent_id":421186223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81151,
+    -24.85988,
+    18.81151,
+    -24.85988
+],
+  "geometry": {"coordinates":[18.81151,-24.85988],"type":"Point"}
+}

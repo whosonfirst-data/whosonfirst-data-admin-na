@@ -1,0 +1,74 @@
+{
+  "id": 9895050077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.88151,-17.91681,18.88151,-17.91681",
+    "geom:latitude":-17.91681,
+    "geom:longitude":18.88151,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12948055: name \"Mangetti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12948055"
+        },
+        {
+            "citation":"GeoNames populated place 12948055: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12948055"
+        },
+        {
+            "citation":"GeoNames populated place 12948055: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12948055"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785091 (Kahenge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785091,
+        1108804903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12948055
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"41c5b9fafb281f914b12e2283e2d57fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785091,
+            "locality_id":9895050077,
+            "region_id":1108804903
+        }
+    ],
+    "wof:id":9895050077,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Mangetti",
+    "wof:parent_id":1108785091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.88151,
+    -17.91681,
+    18.88151,
+    -17.91681
+],
+  "geometry": {"coordinates":[18.88151,-17.91681],"type":"Point"}
+}

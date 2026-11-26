@@ -1,0 +1,74 @@
+{
+  "id": 9895050113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98566,-17.84821,22.98566,-17.84821",
+    "geom:latitude":-17.84821,
+    "geom:longitude":22.98566,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12949580: name \"Mashambo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12949580"
+        },
+        {
+            "citation":"GeoNames populated place 12949580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12949580"
+        },
+        {
+            "citation":"GeoNames populated place 12949580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12949580"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175609 (Kongola), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        421175609,
+        1108804901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12949580
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"f3152a050e7b44a791f56c03e4ad085e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":421175609,
+            "locality_id":9895050113,
+            "region_id":1108804901
+        }
+    ],
+    "wof:id":9895050113,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Mashambo",
+    "wof:parent_id":421175609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98566,
+    -17.84821,
+    22.98566,
+    -17.84821
+],
+  "geometry": {"coordinates":[22.98566,-17.84821],"type":"Point"}
+}

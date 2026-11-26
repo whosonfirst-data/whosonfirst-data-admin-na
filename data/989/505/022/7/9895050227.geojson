@@ -1,0 +1,74 @@
+{
+  "id": 9895050227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87196,-18.03495,20.87196,-18.03495",
+    "geom:latitude":-18.03495,
+    "geom:longitude":20.87196,
+    "iso:country":"NA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13455696: name \"Shamvura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13455696"
+        },
+        {
+            "citation":"GeoNames populated place 13455696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13455696"
+        },
+        {
+            "citation":"GeoNames populated place 13455696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13455696"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108785115 (Ndiyona), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632535,
+        102191573,
+        1108785115,
+        1108804899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13455696
+    },
+    "wof:country":"NA",
+    "wof:geomhash":"2e7c30ed30ba092c974fbdbe2b6552ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632535,
+            "county_id":1108785115,
+            "locality_id":9895050227,
+            "region_id":1108804899
+        }
+    ],
+    "wof:id":9895050227,
+    "wof:lastmodified":1795735017,
+    "wof:name":"Shamvura",
+    "wof:parent_id":1108785115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-na",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87196,
+    -18.03495,
+    20.87196,
+    -18.03495
+],
+  "geometry": {"coordinates":[20.87196,-18.03495],"type":"Point"}
+}
